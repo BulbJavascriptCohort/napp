@@ -21,6 +21,7 @@ News-feed web app is for everybody that want to get access to up-to-date news on
 - EJS
 - Express
 - Axios
+- Nodemon
 
 ## Dependency
 
