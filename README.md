@@ -12,6 +12,7 @@ News-feed web app is for everybody that want to get access to up-to-date news on
 - Users can search for news.
 - Users can receive notifications.
 - Users can search for a particular news.
+- Users can customize settings.
 
 ## Installations
 
